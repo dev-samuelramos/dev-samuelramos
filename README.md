@@ -61,7 +61,7 @@ API RESTful para gerenciamento de tarefas.
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://linkedin.com/in/dev-samuelramos)  
+- [LinkedIn](https://linkedin.com/in/samuelramos94)  
 - [GitHub](https://github.com/dev-samuelramos)  
 - Email: [dev.samuelramos@outlook.com](mailto:dev.samuelramos@outlook.com)
 
