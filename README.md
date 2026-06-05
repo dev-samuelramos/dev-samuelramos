@@ -69,6 +69,7 @@ API RESTful para gerenciamento de tarefas.
 ## 🐍 Snake Animation
 ![Snake animation](https://github.com/dev-samuelramos/dev-samuelramos/blob/output/snake.svg)
 
+
 ---
 
 ## 📫 Contato
