@@ -60,18 +60,6 @@ API RESTful para gerenciamento de tarefas.
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do Samuel](https://github-readme-stats.vercel.app/api?username=dev-samuelramos&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-samuelramos&layout=compact&theme=radical)
-
----
-
-## 🐍 Snake Animation
-![Snake animation](https://github.com/dev-samuelramos/dev-samuelramos/blob/output/snake.svg)
-
-
----
-
 ## 📫 Contato
 - [LinkedIn](https://linkedin.com/in/dev-samuelramos)  
 - [GitHub](https://github.com/dev-samuelramos)  
