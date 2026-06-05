@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Olá, eu sou Samuel Ramos  
 
-<!--
-**dev-samuelramos/dev-samuelramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Desenvolvedor Backend focado em Node.js e boas práticas de segurança  
+🚀 Buscando oportunidade de estágio para aplicar meus conhecimentos em projetos reais  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias da minha stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Supertest-2E2E2E?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+### 🔐 Autenticação API Completa  
+**mai de 2026 – o momento**  
+Projeto de backend com foco em segurança e boas práticas.  
+- Autenticação de usuários com JWT  
+- Persistência em banco NoSQL (MongoDB + Mongoose)  
+- Testes automatizados com Jest e Supertest  
+- Ambiente Docker para rodar API e banco  
+
+👉 [Repositório](https://github.com/dev-samuelramos)
+
+---
+
+### 🚚 Fastfeet API  
+**mai de 2026 – o momento**  
+API de gerenciamento de encomendas e entregadores.  
+- Cadastro de usuários com papéis (admin e entregador)  
+- Autenticação JWT para rotas seguras  
+- CRUD de encomendas com MongoDB  
+- Testes de integração com Jest e Supertest  
+- Docker para ambiente isolado  
+
+👉 [Repositório](https://github.com/dev-samuelramos)
+
+---
+
+### ✅ Gerenciador de Tarefas  
+API RESTful para gerenciamento de tarefas.  
+- Autenticação JWT  
+- CRUD de tarefas com persistência em MongoDB (via Docker)  
+- Testes automatizados com Jest e Supertest  
+- Docker Compose para orquestração  
+
+👉 [Repositório](https://github.com/dev-samuelramos)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do Samuel](https://github-readme-stats.vercel.app/api?username=dev-samuelramos&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-samuelramos&layout=compact&theme=radical)
+
+---
+
+## 🐍 Snake Animation
+![Snake animation](https://github.com/dev-samuelramos/dev-samuelramos/blob/output/snake.svg)
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://linkedin.com/in/dev-samuelramos)  
+- [GitHub](https://github.com/dev-samuelramos)  
+- Email: [dev.samuelramos@outlook.com](mailto:dev.samuelramos@outlook.com)
+
